@@ -13,7 +13,7 @@ I'm a Computer Science student at The Open University of Israel.
 - **Languages**: C, Java, Python
 
 ### Contact
-- **Email**: gallevi@walla.com
+- **Email**: gallvi10@walla.com
 
 Feel free to check out my projects!
 
