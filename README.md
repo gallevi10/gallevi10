@@ -1,13 +1,6 @@
 # Hello, I'm Gal Levi! 👋
 
-I'm a Computer Science student at The Open University of Israel. 
-
-### Projects
-- **12-bit CPU Assembler**: An assembler for imaginary machine implemented in C using Makefile and Linux.
-- **Circular Fibonacci Series**: A project that generates a Fibonacci series and stores it in a circular linked list.
-- **Complex Calculator**: A calculator for complex numbers.
-- **Car Rent Agency**: A project simulating a car rental system.
-- **Max-Min Heap**: A projects that provides an implementation of a specialized heap data structure that supports both maximum and minimum heap properties.
+I'm a Computer Science student at The Open University of Israel and an udemy student in my free time. 
 
 ### Skills
 - **Languages**: C, Java, Python
